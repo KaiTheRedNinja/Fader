@@ -46,3 +46,7 @@ It should work.
 
 ### COMMON ERRORS:
 - Something along the lines of "main.lua not found": the zip file was of the parent folder, not the contents. Go INTO the folder and make the zip.
+
+## From the export
+Go into the `!EXPORTS` folder and download the executable for your system (linux users, sorry. You're not supported yet)
+Note: the win32 and win64 executables MAY NOT WORK. I just followed the instructions on the LOVE2D site, but can't test them. 
