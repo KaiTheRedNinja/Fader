@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "\/Applications\/love.app\/Contents\/MacOS\/love ."
+    }
+  },
+  "identifier" : "489593DB-7EE5-4018-914B-B6672A994BFF"
+}
