@@ -1,7 +1,7 @@
 NOTE: in this document, "box", "rectangle", "blocks" are used interchangably.
 
 # HOW TO PLAY
-You are the blue box. Control left/right using `left arrow` or `a`, `right arrow` or `d`. Jump using `up arrow`.
+You are the blue box. Control left/right using `left arrow` or `a`, `right arrow` or `d`. Jump using `up arrow`, `space`, or `w`.
 Drag your mouse to make boxes. Your goal is to get to the exit.
 
 # Game Components
