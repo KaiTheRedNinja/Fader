@@ -42,8 +42,8 @@ If there is not, that means I forgot to make one. To create the .love file:
 2. cd to the the folder in terminal and run `zip -9 -r Archive.love .`. This should produce a .love executable file.
 
 ### OPENING THE LOVE FILE
-1. Download LOVE2D for your system from https://www.love2d.org
-2. Double-click open the .love file from the previous section
+1. Download the right copy of LOVE2D (there are both macOS and windows in the `Templates` folder in `!EXPORTS`). OR download LOVE2D for your system directly from the site: https://www.love2d.org
+3. Double-click open the .love file from the previous section
 
 It should run. 
 
