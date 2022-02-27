@@ -4,6 +4,8 @@ NOTE: in this document, "box", "rectangle", "blocks" are used interchangably.
 You are the blue box. Control left/right using `left arrow` or `a`, `right arrow` or `d`. Jump using `up arrow`, `space`, or `w`.
 Drag your mouse to make boxes. Your goal is to get to the exit.
 
+Demo: https://www.youtube.com/watch?v=MNCBXuGp8xY
+
 # Game Components
 
 ## Drawn Boxes
