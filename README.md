@@ -42,7 +42,8 @@ If there is not, that means I forgot to make one. To create the .love file:
 ### OPENING THE LOVE FILE
 1. Download LOVE2D for your system from https://www.love2d.org
 2. Double-click open the .love file from the previous section
-It should work.
+
+It should run. 
 
 ### COMMON ERRORS:
 - Something along the lines of "main.lua not found": the zip file was of the parent folder, not the contents. Go INTO the folder and make the zip.
